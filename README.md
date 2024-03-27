@@ -1,3 +1,10 @@
+<!--div align="center">
+  <img src="https://static.wixstatic.com/media/6904e5_cfe5d9e3e995448680879d1bc61a44fb~mv2.png/v1/crop/x_0,y_0,w_3435,h_1327/fill/w_740,h_286,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/abstractwaves.png" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="width: 100%; height: 80px; margin: 0px;" alt="Just Peachy Sticker | Indigo Sugar" jsname="kn3ccd" aria-hidden="false">
+</div>-->
+
+<br/>
+
+<h1 align="center">Olá! Eu sou a Mariana!👋</h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/marialmeidam" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -16,24 +23,24 @@
   </a>
 </div>
 
-###
-
-<h1 align="center">Olá! Eu sou a Mariana!👋</h1>
-
-###
-
+<br/><br/>
 <p align="center">👩‍💻<br>Sou uma entusiasta do desenvolvimento front-end, apaixonada por criar experiências de usuário envolventes através do design UX/UI!</p>
+<br/>
 
-###
+#
+<img align="right" style="height: 200px; width: 200px" src="https://imgs.search.brave.com/oeE2fa-944iROaGlK09ZZafxZvSrb3-T2hEffnXzy4I/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvZG9nLW9u/LWNvbXB1dGVyLTc5/emVwdXdkbDFjMGU4/NzUuZ2lm.gif" alt="Dog" class="svelte-f70zw6 loaded">
 
-<p align="left">🏡 Moro em Belo Horizonte.<br><br>🔭 Meu trabalho é focado em Front-End, combinando desenvolvimento com design UX/UI.<br><br>📚 Atualmente, estou cursando Ciência da Computação na PUC Minas.</p>
+<div align="left">
+  <br/>
+  <p>🏡 Moro em Belo Horizonte.</p>
+  <p>🔭 Meu trabalho é focado em Front-End, combinando desenvolvimento com design UX/UI.</p>
+  <p>📚 Atualmente, estou cursando Ciência da Computação na PUC Minas.</p>
+  <p>🐶 Sou aventureira na programação! Apaixonada por front e doguinhos!  </p>
+</div>
 
-###
-
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
-
-###
-
+<br/><br/>
+#
+<h3 align="center">🛠 Linguagens e Ferramentas</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="24" alt="react logo"  />
   <img width="4" />
@@ -66,13 +73,3 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="24" alt="firebase logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-</div>
-
-###
