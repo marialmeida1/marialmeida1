@@ -1,8 +1,10 @@
+![cover_social](https://github.com/user-attachments/assets/51a9e2ac-248b-4ff8-a3c5-551a671fab14)
 
-###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=marialmeida1.marialmeida1&"  />
+</div>
 
-![cover_social](https://github.com/user-attachments/assets/31e286d5-8958-4604-bdb6-8f55acd6c862)
-
+<h1 align="center">Olá, tudo bem? 👋</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marialmeidam" target="_blank">
@@ -22,74 +24,79 @@
   </a>
 </div>
 
-###
+<br/>
 
-<h1 align="center">Olá, tudo bem? 👋</h1>
+<p align="left">
+  Prazer, sou a Mariana, mas como somos íntimos, pode me chamar só de Mari! Sou uma entusiasta do desenvolvimento front-end e apaixonada por criar experiências de usuário envolventes através do design UX/UI!<br><br>
+  <ul>
+    <li>🏡 Moro em Belo Horizonte.</li>
+    <li>🔭 Trabalho focado em Front-End, combinando desenvolvimento com design UX/UI.</li>
+    <li>📚 Atualmente, estou cursando Ciência da Computação na PUC Minas.</li>
+    <li>🕔 Recentemente, me formei como Técnica em Informática pelo IFMG.</li>
+    <li>🐶 Sou aventureira na programação! Apaixonada por front e doguinhos!</li>
+  </ul>
+</p>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=marialmeida1.marialmeida1&"  />
-</div>
-
-###
-
-###
-
-<h3 align="left">👩‍💻  Sobre mim</h3>
-
-###
-
-<p align="left">Prazer sou a Mariana, mas como somos íntimos, pode me chamar só de Mari! Sou uma entusiasta do desenvolvimento front-end, apaixonada por criar experiências de usuário envolventes através do design UX/UI!<br><br>🏡 Moro em Belo Horizonte.<br>🔭 Meu trabalho é focado em Front-End, combinando desenvolvimento com design UX/UI.<br>📚 Atualmente, estou cursando Ciência da Computação na PUC Minas.<br>🕔 Recentemente, me formei como Técnica em Informática pelo IFMG.<br>🐶 Sou aventureira na programação! Apaixonada por front e doguinhos!</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+<h3 align="left">🛠 Linguagens e Ferramentas</h3>
 
 <div align="center">
+  <!-- Front-End -->
+  <h3>Front-End</h3>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="28" alt="react logo"  />
-  <img width="3" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="28" alt="typescript logo"  />
-  <img width="3" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="28" alt="tailwindcss logo"  />
-  <img width="3" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="28" alt="javascript logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="28" alt="flutter logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="28" alt="dart logo"  />
-  <img width="3" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="28" alt="html5 logo"  />
-  <img width="3" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="28" alt="css3 logo"  />
-  <img width="3" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="28" alt="figma logo"  />
-  <img width="3" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="28" alt="bootstrap logo"  />
-  <img width="3" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="28" alt="flutter logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="28" alt="dart logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="28" alt="next.js logo"  />
+  <br><br>
+  
+  <!-- Back-End -->
+  <h3>Back-End</h3>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="28" alt="laravel logo"  />
-  <img width="3" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" height="28" alt="c logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" height="28" alt="php logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="28" alt="cplusplus logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" height="28" alt="java logo"  />
+  <br><br>
+
+  <!-- Banco de Dados -->
+  <h3>Banco de Dados</h3>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="28" alt="mysql logo"  />
-  <img width="3" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="28" alt="postgresql logo"  />
-  <img width="3" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="28" alt="firebase logo"  />
-  <img width="3" />
+  <br><br>
+
+  <!-- Design -->
+  <h3>Design</h3>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="28" alt="figma logo"  />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="28" alt="adobephotoshop logo"  />
-  <img width="3" />
+  <img width="4" />
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="28" alt="adobeillustrator logo"  />
 </div>
 
-###
-
 <h3 align="left">🔥 Meus Status :</h3>
 
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marialmeida1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="200" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=marialmeida1&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=3&order=3" height="200" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marialmeida1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
