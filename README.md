@@ -56,10 +56,6 @@
   <img width="4" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="28" alt="bootstrap logo"  />
   <img width="4" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="28" alt="flutter logo"  />
-  <img width="4" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="28" alt="dart logo"  />
-  <img width="4" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="28" alt="next.js logo"  />
   <br><br>
   
@@ -75,6 +71,13 @@
   <img width="4" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" height="28" alt="java logo"  />
   <br><br>
+
+  <!-- Mobile -->
+  <h3>Mobile</h3>
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="28" alt="flutter logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="28" alt="dart logo"  />
+  <img width="4" />
 
   <!-- Banco de Dados -->
   <h3>Banco de Dados</h3>
