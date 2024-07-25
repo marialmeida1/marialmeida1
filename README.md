@@ -8,19 +8,19 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marialmeidam" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=4a0d67&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/mariallmeidam/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=73eedc&logoColor=242424&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="https://www.behance.net/marianaalmeida51" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=4a0d67&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
   </a>
   <a href="https://linktr.ee/al.mariana" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=4a0d67&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
   </a>
   <a href="marianaalmeidafga@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=73eedc&logoColor=242424&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
@@ -37,69 +37,76 @@
   </ul>
 </p>
 
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
+<br/>
+
+<h2 align="center">🛠 Linguagens e Ferramentas</h2>
 
 <div align="center">
+  
   <!-- Front-End -->
   <h3>Front-End</h3>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="28" alt="react logo"  />
+  <img src="https://img.shields.io/badge/React-1B1925?logo=react&logoColor=61DAFB&style=for-the-badge" height="28" alt="react logo" />
   <img width="4" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="28" alt="typescript logo"  />
+  <img src="https://img.shields.io/badge/TypeScript-1B1925?logo=typescript&logoColor=3178C6&style=for-the-badge" height="28" alt="typescript logo" />
   <img width="4" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="28" alt="tailwindcss logo"  />
+  <img src="https://img.shields.io/badge/Tailwind CSS-1B1925?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge" height="28" alt="tailwindcss logo" />
   <img width="4" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="28" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-1B1925?logo=javascript&logoColor=F7DF1E&style=for-the-badge" height="28" alt="javascript logo" />
   <img width="4" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="28" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/HTML5-1B1925?logo=html5&logoColor=E34F26&style=for-the-badge" height="28" alt="html5 logo" />
   <img width="4" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="28" alt="css3 logo"  />
+  <img src="https://img.shields.io/badge/CSS3-1B1925?logo=css3&logoColor=1572B6&style=for-the-badge" height="28" alt="css3 logo" />
   <img width="4" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="28" alt="bootstrap logo"  />
+  <img src="https://img.shields.io/badge/Bootstrap-1B1925?logo=bootstrap&logoColor=7952B3&style=for-the-badge" height="28" alt="bootstrap logo" />
   <img width="4" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="28" alt="next.js logo"  />
+  <img src="https://img.shields.io/badge/Next.js-1B1925?logo=nextdotjs&logoColor=000000&style=for-the-badge" height="28" alt="next.js logo" />
   <br><br>
   
   <!-- Back-End -->
   <h3>Back-End</h3>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="28" alt="laravel logo"  />
+  <img src="https://img.shields.io/badge/Laravel-1B1925?logo=laravel&logoColor=FF2D20&style=for-the-badge" height="28" alt="laravel logo" />
   <img width="4" />
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" height="28" alt="c logo"  />
+  <img src="https://img.shields.io/badge/C-1B1925?logo=c&logoColor=00599C&style=for-the-badge" height="28" alt="c logo" />
   <img width="4" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" height="28" alt="php logo"  />
+  <img src="https://img.shields.io/badge/PHP-1B1925?logo=php&logoColor=777BB4&style=for-the-badge" height="28" alt="php logo" />
   <img width="4" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="28" alt="cplusplus logo"  />
+  <img src="https://img.shields.io/badge/C++-1B1925?logo=cpp&logoColor=00599C&style=for-the-badge" height="28" alt="cplusplus logo" />
   <img width="4" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" height="28" alt="java logo"  />
+  <img src="https://img.shields.io/badge/Java-1B1925?logo=java&logoColor=007396&style=for-the-badge" height="28" alt="java logo" />
   <br><br>
-
+  
   <!-- Mobile -->
   <h3>Mobile</h3>
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="28" alt="flutter logo"  />
+  <img src="https://img.shields.io/badge/Flutter-1B1925?logo=flutter&logoColor=02569B&style=for-the-badge" height="28" alt="flutter logo" />
   <img width="4" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="28" alt="dart logo"  />
+  <img src="https://img.shields.io/badge/Dart-1B1925?logo=dart&logoColor=0175C2&style=for-the-badge" height="28" alt="dart logo" />
   <img width="4" />
-
+  
   <!-- Banco de Dados -->
   <h3>Banco de Dados</h3>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="28" alt="mysql logo"  />
+  <img src="https://img.shields.io/badge/MySQL-1B1925?logo=mysql&logoColor=4479A1&style=for-the-badge" height="28" alt="mysql logo" />
   <img width="4" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="28" alt="postgresql logo"  />
+  <img src="https://img.shields.io/badge/PostgreSQL-1B1925?logo=postgresql&logoColor=4169E1&style=for-the-badge" height="28" alt="postgresql logo" />
   <img width="4" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="28" alt="firebase logo"  />
+  <img src="https://img.shields.io/badge/Firebase-1B1925?logo=firebase&logoColor=FFCA28&style=for-the-badge" height="28" alt="firebase logo" />
   <br><br>
-
+  
   <!-- Design -->
   <h3>Design</h3>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="28" alt="figma logo"  />
+  <img src="https://img.shields.io/badge/Figma-1B1925?logo=figma&logoColor=F24E1E&style=for-the-badge" height="28" alt="figma logo" />
   <img width="4" />
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="28" alt="adobephotoshop logo"  />
+  <img src="https://img.shields.io/badge/Adobe Photoshop-1B1925?logo=adobephotoshop&logoColor=31A8FF&style=for-the-badge" height="28" alt="adobephotoshop logo" />
   <img width="4" />
-  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="28" alt="adobeillustrator logo"  />
+  <img src="https://img.shields.io/badge/Adobe Illustrator-1B1925?logo=adobeillustrator&logoColor=FF9A00&style=for-the-badge" height="28" alt="adobeillustrator logo" />
+
 </div>
 
-<h3 align="left">🔥 Meus Status :</h3>
+<br/>
+
+<h2 align="center">🔥 Meus Status :</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=marialmeida1&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=3&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marialmeida1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=marialmeida1&theme=dark-minimalist&hide_border=true&mode=dayly" alt="GitHub Streak" /></a>  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marialmeida1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <a href="https://github-readme-stats.vercel.app/api?username=marialmeida1&show_icons=true&bg_color=00000000" height="200" />
 </div>
