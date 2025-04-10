@@ -119,6 +119,6 @@
   <br/>
   <br/>
   <a href="https://github-profile-trophy.vercel.app/?username=marialmeida1">
-    <img src="https://github-profile-trophy.vercel.app/?username=marialmeida1&theme=onestar" alt="GitHub Profile Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=marialmeida1&theme=onestar&rank=-C" alt="GitHub Profile Trophy" />
   </a>
 </div>
