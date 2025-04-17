@@ -1,4 +1,4 @@
-![cover_social](https://github.com/user-attachments/assets/51a9e2ac-248b-4ff8-a3c5-551a671fab14)
+![Capa](https://github.com/user-attachments/assets/9ad5784d-325d-455f-b5e9-453e89f86c99)
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=marialmeida1.marialmeida1&"  />
