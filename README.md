@@ -1,4 +1,4 @@
-![Capa](https://github.com/user-attachments/assets/9ad5784d-325d-455f-b5e9-453e89f86c99)
+t![Capa](https://github.com/user-attachments/assets/9ad5784d-325d-455f-b5e9-453e89f86c99)
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=marialmeida1.marialmeida1&"  />
@@ -16,8 +16,8 @@
   <a href="https://www.behance.net/marianaalmeida51" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
   </a>
-  <a href="https://linktr.ee/al.mariana" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
+  <a href="www.marialmeida.site" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfólio&logo=linkedin&label=&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
   </a>
   <a href="mailto:marianaalmeidafga@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
