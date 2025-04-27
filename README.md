@@ -17,7 +17,7 @@ t![Capa](https://github.com/user-attachments/assets/9ad5784d-325d-455f-b5e9-453e
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
   </a>
   <a href="https://www.marialmeida.site/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfólio&logo=linkedin&label=&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:marianaalmeidafga@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
