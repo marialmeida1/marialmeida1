@@ -16,7 +16,7 @@ t![Capa](https://github.com/user-attachments/assets/9ad5784d-325d-455f-b5e9-453e
   <a href="https://www.behance.net/marianaalmeida51" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/marialmeidam" target="_blank">
+  <a href="https://www.marialmeida.site" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="mailto:marianaalmeidafga@gmail.com" target="_blank">
