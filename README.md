@@ -7,20 +7,20 @@ t![Capa](https://github.com/user-attachments/assets/9ad5784d-325d-455f-b5e9-453e
 <h1 align="center">Olá, tudo bem? 👋</h1>
 
 <div align="center">
+    <a href="https://www.marialmeida.site" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=linkedin&label=&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/marialmeidam" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/mariallmeidam/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
   <a href="https://www.behance.net/marianaalmeida51" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
   </a>
-  <a href="https://www.marialmeida.site" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=linkedin&label=&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
   <a href="mailto:marianaalmeidafga@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/mariallmeidam/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
 
