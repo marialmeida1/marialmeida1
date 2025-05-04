@@ -1,4 +1,4 @@
-t![Capa](https://github.com/user-attachments/assets/9ad5784d-325d-455f-b5e9-453e89f86c99)
+![Capa](https://github.com/user-attachments/assets/9ad5784d-325d-455f-b5e9-453e89f86c99)
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=marialmeida1.marialmeida1&"  />
