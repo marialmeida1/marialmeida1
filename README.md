@@ -10,13 +10,15 @@ Interested in scalable architectures and AI & Data.
 - Designing **scalable backend systems and APIs**
 - Exploring **rapid prototyping and new developer tools**
 
+---
 
-## Languages
+## Languages & Tools
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/JavaScript-111111?logo=javascript&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/TypeScript-111111?logo=typescript&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/Python-111111?logo=python&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/React-111111?logo=react&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Next.js-111111?logo=nextdotjs&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/HTML-111111?logo=html5&logoColor=white&style=flat" />
@@ -25,6 +27,7 @@ Interested in scalable architectures and AI & Data.
 <img src="https://img.shields.io/badge/Laravel-111111?logo=laravel&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Node.js-111111?logo=node.js&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Java-111111?logo=openjdk&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/Spring-111111?logo=spring&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/C-111111?logo=c&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/C++-111111?logo=cplusplus&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/Flutter-111111?logo=flutter&logoColor=white&style=flat" />
